@@ -40,17 +40,17 @@ Robustness
 -->
 
 ## 🏆 Awards 
-Graduation with Honors(top 10%)(Jun. 2021)
-Wuhan University.
+-Graduation with Honors(top 10%)(Jun. 2021)
+ Wuhan University.
 
-Huawei Scholarship (Jan. 2020)
-Wuhan University.
+-Huawei Scholarship (Jan. 2020)
+ Wuhan University.
 
-National Scholarship(top 1%) (Jan. 2019.)
-Wuhan University.
+-National Scholarship(top 1%) (Jan. 2019.)
+ Wuhan University.
 
-National Scholarship(top 1%) (Jan. 2018.)
-Wuhan University.
+-National Scholarship(top 1%) (Jan. 2018.)
+ Wuhan University.
 
 ## 💬 Languages
 Chinese: Native
@@ -58,11 +58,11 @@ Chinese: Native
 
 
 ## 👩🏼‍🎓 Education
-Masters in Pattern Recognition and Intelligent System
-Institute of Automation, Chinese Academy of Sciences (CASIA) - Beijing, China (Aug. 2021 - Present)
+-Masters in Pattern Recognition and Intelligent System
+ Institute of Automation, Chinese Academy of Sciences (CASIA) - Beijing, China (Aug. 2021 - Present)
 
-Bachelor in Information Security
-Wuhan University - Wuhan, China (2017- 2021)
+-Bachelor in Information Security
+ Wuhan University - Wuhan, China (2017- 2021)
 
 ## 📌 Skills and Relevant Courses
 Relevant Courses: Machine Learning(91), Discrete Mathematics(98).
