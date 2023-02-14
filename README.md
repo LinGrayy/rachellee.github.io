@@ -69,6 +69,7 @@ Relevant Courses: Machine Learning(91), Discrete Mathematics(98).
 
 Programming Skills : Python, PyTorch, C, \LaTeX.
 
-## License
+<!-- ## License
 
 TeXt Theme is [MIT licensed](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE).
+ -->
