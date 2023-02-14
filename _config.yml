@@ -16,13 +16,13 @@
 
 ## => Site Settings
 ##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Lingrui Li's CV
+title   : 💻✒️📄🌟
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Lingrui Li's CV
 
 
 ## => Language and Timezone
@@ -39,7 +39,7 @@ author:
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am a graduate student at the CBMI lab, Institution of Automation.
-  email     :
+  email     : lilingrui2021@ia.ac.cn
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -49,7 +49,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/LinGrayy
+  github    : https://github.com/LinGrayy # "user_name" the last part of your profile url, e.g. https://github.com/LinGrayy
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -223,3 +223,68 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+
+👩🏼‍💻 Education Experience
+Frontend Engineer @ BRYTER (Dec 2020 - Present)
+
+
+📌 Volunteering
+EU Conference Team Member @ Write the Docs (Jul 2019 - Present)
+Technology conference focused on documentation systems, tech writing theory, and information delivery.
+
+Emceed the last in-person event in 2019 and the first virtual event in 2020
+Introduced speakers and faciliated Q&A sessions
+
+Workshop Lead @ New Devs on the Block (Jul 2019 - Dec 2021)
+Free, two-day workshops to help people build their first website.
+
+Creating a curriculum that covers HTML, CSS and a bit of JavaScript
+Preparing supplemental presentations on topics like accessibility and animations
+Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak
+
+Web Development Instructor @ ReDI School of Digital Integration (Feb 2017 - Aug 2021)
+Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
+
+
+Co-Organizer @ QueerJS (Jun 2019 - Dec 2021)
+🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
+
+Selected speakers and scheduling events
+Fostered an inclusive community and enforced the code of conduct
+🐻 Previously co-organized BerlinJS from May 2018 - May 2020
+
+🎤 Public Speaking
+Recent Appearances
+JSHeroes live in Cluj 🇷🇴 (Jun 9, 2022)
+Humanizing Your Documentation
+
+single-threaded Podcast (released on Mar 31, 2021)
+Crying at work
+
+
+
+🏆 Accomplishments
+Graduation with Honors(top 10%)(Jun. 2021)
+Wuhan University.
+
+Huawei Scholarship (Jan. 2020)
+Wuhan University.
+
+National Scholarship(top 1%) (Jan. 2019.)
+Wuhan University.
+
+National Scholarship(top 1%) (Jan. 2018.)
+Wuhan University.
+
+💬 Languages
+Chinese: Native
+🇺🇸 English: CET-6
+
+
+👩🏼‍🎓 Education
+Masters in Pattern Recognition and Intelligent System
+Institute of Automation, Chinese Academy of Sciences (CASIA) - Beijing, China (Aug. 2021 - Present)
+
+Bachelor in Information Security
+Wuhan University - Wuhan, China (2017- 2021)
