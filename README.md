@@ -39,8 +39,8 @@ Robustness
 # 🎤 Public Speaking
 -->
 
-## 🏆 Awards _ <br>
- - Graduation with Honors(top 10%)(Jun. 2021)
+## 🏆 Awards  <br>
+ - Graduation with Honors(top 10%) (Jun. 2021)
  Wuhan University.
 
  - Huawei Scholarship (Jan. 2020)
@@ -58,7 +58,7 @@ Chinese: Native
 🇺🇸 English: CET-6
 
 
-## 👩🏼‍🎓 Education _ <br>
+## 👩🏼‍🎓 Education  <br>
  - Masters in Pattern Recognition and Intelligent System
  Institute of Automation, Chinese Academy of Sciences (CASIA) - Beijing, China (Aug. 2021 - Present)
 
@@ -67,7 +67,7 @@ Chinese: Native
 <br><br>
 
 ## 📌 Skills and Relevant Courses
-Relevant Courses: Machine Learning(91), Discrete Mathematics(98).
+Relevant Courses: Machine Learning (91), Discrete Mathematics (98).
 
 Programming Skills : Python, PyTorch, C, \LaTeX.
 
