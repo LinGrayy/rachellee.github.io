@@ -13,12 +13,12 @@
 ## My Page
  https://lingrayy.github.io/ 
 
-## Demo Pages
+<!-- ## Demo Pages
 
 | Name | Description |
 | --- | --- |
 | [Home](https://lingrayy.github.io/) | Home page |
-| [Archive](https://kitian616.github.io/jekyll-TeXt-theme/archive.html) | Archive page |
+| [Archive](https://kitian616.github.io/jekyll-TeXt-theme/archive.html) | Archive page | -->
 
 
 ## License
