@@ -40,16 +40,16 @@ Robustness
 -->
 
 ## 🏆 Awards _ <br>
--Graduation with Honors(top 10%)(Jun. 2021)
+ - Graduation with Honors(top 10%)(Jun. 2021)
  Wuhan University.
 
--Huawei Scholarship (Jan. 2020)
+ - Huawei Scholarship (Jan. 2020)
  Wuhan University.
 
--National Scholarship(top 1%) (Jan. 2019.)
+ - National Scholarship(top 1%) (Jan. 2019.)
  Wuhan University.
 
--National Scholarship(top 1%) (Jan. 2018.)
+ - National Scholarship(top 1%) (Jan. 2018.)
  Wuhan University.
 <br><br>
 
@@ -59,10 +59,10 @@ Chinese: Native
 
 
 ## 👩🏼‍🎓 Education _ <br>
--Masters in Pattern Recognition and Intelligent System
+ - Masters in Pattern Recognition and Intelligent System
  Institute of Automation, Chinese Academy of Sciences (CASIA) - Beijing, China (Aug. 2021 - Present)
 
--Bachelor in Information Security
+ - Bachelor in Information Security
  Wuhan University - Wuhan, China (2017- 2021)
 <br><br>
 
