@@ -28,7 +28,7 @@
 Unsupervised Domain Adaptation (UDA)
 Semantic Segmentation
 Robustness
-
+ <!-- 
 # Co-Organizer @ QueerJS (Jun 2019 - Dec 2021)
 # 🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
 
@@ -37,7 +37,7 @@ Robustness
 # 🐻 Previously co-organized BerlinJS from May 2018 - May 2020
 
 # 🎤 Public Speaking
-
+-->
 
 🏆 Awards #Accomplishments
 Graduation with Honors(top 10%)(Jun. 2021)
