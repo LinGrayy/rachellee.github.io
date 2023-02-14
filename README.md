@@ -21,10 +21,10 @@
 | [Archive](https://kitian616.github.io/jekyll-TeXt-theme/archive.html) | Archive page | -->
 
 
-👩🏼‍💻 Publications
+## 👩🏼‍💻 Publications
  Zhong Liqun, Lingrui Li, Ge Yang, Characterizing Robustness of Deep Neural Networks in Semantic Segmentation of Fluorescence Microscopy Images. Submitted to TIP, under review.
 
-💖 Scientific interests
+## 💖 Scientific interests
 Unsupervised Domain Adaptation (UDA)
 Semantic Segmentation
 Robustness
@@ -39,7 +39,7 @@ Robustness
 # 🎤 Public Speaking
 -->
 
-🏆 Awards #Accomplishments
+## 🏆 Awards 
 Graduation with Honors(top 10%)(Jun. 2021)
 Wuhan University.
 
@@ -52,19 +52,19 @@ Wuhan University.
 National Scholarship(top 1%) (Jan. 2018.)
 Wuhan University.
 
-💬 Languages
+## 💬 Languages
 Chinese: Native
 🇺🇸 English: CET-6
 
 
-👩🏼‍🎓 Education
+## 👩🏼‍🎓 Education
 Masters in Pattern Recognition and Intelligent System
 Institute of Automation, Chinese Academy of Sciences (CASIA) - Beijing, China (Aug. 2021 - Present)
 
 Bachelor in Information Security
 Wuhan University - Wuhan, China (2017- 2021)
 
-📌 Skills and Relevant Courses
+## 📌 Skills and Relevant Courses
 Relevant Courses: Machine Learning(91), Discrete Mathematics(98).
 
 Programming Skills : Python, PyTorch, C, \LaTeX.
