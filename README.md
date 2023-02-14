@@ -21,6 +21,54 @@
 | [Archive](https://kitian616.github.io/jekyll-TeXt-theme/archive.html) | Archive page | -->
 
 
+👩🏼‍💻 Publications
+ Zhong Liqun, Lingrui Li, Ge Yang, Characterizing Robustness of Deep Neural Networks in Semantic Segmentation of Fluorescence Microscopy Images. Submitted to TIP, under review.
+
+💖 Scientific interests
+Unsupervised Domain Adaptation (UDA)
+Semantic Segmentation
+Robustness
+
+# Co-Organizer @ QueerJS (Jun 2019 - Dec 2021)
+# 🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
+
+# Selected speakers and scheduling events
+# Fostered an inclusive community and enforced the code of conduct
+# 🐻 Previously co-organized BerlinJS from May 2018 - May 2020
+
+# 🎤 Public Speaking
+
+
+🏆 Awards #Accomplishments
+Graduation with Honors(top 10%)(Jun. 2021)
+Wuhan University.
+
+Huawei Scholarship (Jan. 2020)
+Wuhan University.
+
+National Scholarship(top 1%) (Jan. 2019.)
+Wuhan University.
+
+National Scholarship(top 1%) (Jan. 2018.)
+Wuhan University.
+
+💬 Languages
+Chinese: Native
+🇺🇸 English: CET-6
+
+
+👩🏼‍🎓 Education
+Masters in Pattern Recognition and Intelligent System
+Institute of Automation, Chinese Academy of Sciences (CASIA) - Beijing, China (Aug. 2021 - Present)
+
+Bachelor in Information Security
+Wuhan University - Wuhan, China (2017- 2021)
+
+📌 Skills and Relevant Courses
+Relevant Courses: Machine Learning(91), Discrete Mathematics(98).
+
+Programming Skills : Python, PyTorch, C, \LaTeX.
+
 ## License
 
 TeXt Theme is [MIT licensed](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE).
