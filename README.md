@@ -39,7 +39,7 @@ Robustness
 # 🎤 Public Speaking
 -->
 
-## 🏆 Awards 
+## 🏆 Awards _ <br>
 -Graduation with Honors(top 10%)(Jun. 2021)
  Wuhan University.
 
@@ -51,18 +51,20 @@ Robustness
 
 -National Scholarship(top 1%) (Jan. 2018.)
  Wuhan University.
+<br><br>
 
 ## 💬 Languages
 Chinese: Native
 🇺🇸 English: CET-6
 
 
-## 👩🏼‍🎓 Education
+## 👩🏼‍🎓 Education _ <br>
 -Masters in Pattern Recognition and Intelligent System
  Institute of Automation, Chinese Academy of Sciences (CASIA) - Beijing, China (Aug. 2021 - Present)
 
 -Bachelor in Information Security
  Wuhan University - Wuhan, China (2017- 2021)
+<br><br>
 
 ## 📌 Skills and Relevant Courses
 Relevant Courses: Machine Learning(91), Discrete Mathematics(98).
